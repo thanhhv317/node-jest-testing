@@ -1,5 +1,8 @@
 {
     "scripts": {
         "test": "jest"
+    },
+    "dependencies": {
+        "jest-diff": "^28.1.0"
     }
 }
