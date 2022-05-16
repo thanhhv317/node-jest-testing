@@ -1,8 +1,16 @@
 {
+    "private": true,
+    "version": "0.0.0",
+    "name": "example-async",
+    "devDependencies": {
+        "@babel/core": "^7.11.6",
+        "@babel/preset-env": "^7.1.0"
+    },
     "scripts": {
         "test": "jest"
     },
     "dependencies": {
+        "jest": "^28.1.0",
         "jest-diff": "^28.1.0"
     }
 }
