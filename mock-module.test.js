@@ -1,3 +1,3 @@
 // Mocking Modules
 
-// go to: https://jestjs.io/docs/mock-functions#mocking-modules
+// go to: https://jestjs.io/docs/mock-functions#mocking-modules to view
