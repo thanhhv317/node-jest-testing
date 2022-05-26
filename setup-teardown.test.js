@@ -7,9 +7,9 @@
 const { test, expect } = require('@jest/globals');
 
 
-
 let cities = [
-    'HCM'
+    'HCM',
+    'DANANG'
 ];
 // Repeating Setup For Many Tests
 
